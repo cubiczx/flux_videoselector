@@ -1,0 +1,14 @@
+@import 'colors';
+
+$theme-font: verdana, sans-serif;
+
+body {
+  font-family: $theme-font;
+  color: white;
+  background-color: $black;
+}
+
+.btn{
+    white-space:normal !important;
+    word-wrap: break-word; 
+}
